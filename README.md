@@ -38,7 +38,7 @@ End-to-End Cross-VPC Communication using AWS Peering Link, Route Tables, and Win
 This project showcases the architecture, deployment, and validation of an Inter-VPC Peering Connection in the AWS Mumbai Region (ap-south-1). By connecting two architecturally isolated Virtual Private Clouds (VPC-1 and VPC-2), internal workloads securely communicate using private IPv4 addressing without routing traffic over the public internet.
 The network is validated using a Windows Server Bastion Host in VPC-1 to test TCP reachability against an isolated private server inside VPC-2.
 🏗️ Network Architecture & Topology
-<img width="1281" height="795" alt="1_VPC_Peering_Verification_True png" src="https://github.com/user-attachments/assets/47eb4362-ed52-4351-9711-ee14187f791b" />
+
 <img width="1347" height="1167" alt="VPC Peering Architecture Diagram" src="https://github.com/user-attachments/assets/42b91a52-1bf1-4b0c-9243-0a9020ac6720" />
 
  
